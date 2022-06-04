@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, Dart**
 
-- 📫 How to reach me **pallabmistry90@gmail.com**
+- 📫 How to reach me **pallabmistry26@gmail.com**
 
 - ⚡ Fun fact **I think, i'm funny.**
 
