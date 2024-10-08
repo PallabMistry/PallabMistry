@@ -8,6 +8,8 @@
 - 📫 How to reach me **pallabmistry90@gmail.com**
 
 - ⚡ Fun fact **I think, i'm funny.**
+- 
+-   ** Love to travel **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
