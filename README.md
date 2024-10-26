@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
-<h3 align="center">A passionate Mobile App frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Mobile Application Development**
+- 🌱 I’m currently learning **Software Quality Assurance**
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter, Dart, HTML5, CSS3, SQL, SQA, Menual Testing, SDLC, STLC, Models ETC**
 
 - 📫 How to reach me **pallabmistry90@gmail.com**
 
