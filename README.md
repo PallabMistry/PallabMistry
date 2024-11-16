@@ -3,7 +3,7 @@ __<h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
 
 - 🌱 I’m currently learning **Software Quality Assurance**
 
-- 💬 Ask me about **Flutter, Dart, HTML5, CSS3, SQL, SQA, Menual Testing, SDLC, STLC, Models ETC**
+- 💬 Ask me about ** Selenium, Java, Postman, Rest Assured, Flutter, Dart, HTML5, CSS3, SQL, SQA, Jira, SDLC, STLC, Models ETC**
 
 - 📫 How to reach me **pallabmistry90@gmail.com**
 
@@ -16,8 +16,8 @@ __<h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
 <a href="https://linkedin.com/in/thepallabmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallab-mistry-09071a235" height="30" width="40" /></a>  
 </p>
 
-<h3 align="left">Languages, Testing & others tools :</h3>
-<p align="left"> 
+<h3 align="center">Languages, Testing & others tools :</h3>
+<p align="center"> 
   <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
@@ -40,4 +40,9 @@ __<h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VisualStudio" width="40" height="40"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  </p>
 
+
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallabmistry&theme=radical&layout=compact" />
+
 _
+
+
