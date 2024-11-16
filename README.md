@@ -1,4 +1,4 @@
-_<h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
+__<h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Software Quality Assurance**
@@ -20,25 +20,43 @@ _<h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
 <p align="left"> 
   <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/> </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="HTML" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg alt="HTML" width="40" height="40"/> </a>
-   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="HTML" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg alt="JavaScript" width="40" height="40"/> </a>
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a> 
 
 
 <h3 align="left">API Testing :</h3>
 <p align="left"> 
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://rest-assured.io/img/logo-transparent.png" alt="postman" width="40" height="40"/> </a> 
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> 
+<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured" width="40" height="40"/> </a> 
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/JMeter_Logo.png" alt="JMeter" width="40" height="40"/> </a> 
 
+
+  <h3 align="left">Database & Types :</h3>
+<p align="left"> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+
+
+<h3 align="left">Automation tools:</h3>
+<p align="left"> 
+ <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/selenium.svg" alt="Selenium" width="40" height="40"/> </a> 
+<a href="https://appium.io/docs/en/latest/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ex/291836/svg/appium-seeklogo.com.svg" alt="Appium" width="40" height="40"/> </a> 
 
   
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+ <h3 align="left">Project Management Systems:</h3>
+<p align="left"> 
+ <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> </a> 
+<a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="Trello" width="40" height="40"/> </a> 
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallabmistry&show_icons=true&locale=en&layout=compact" alt="pallabmistry" /></p>
+  <h3 align="left">Other Tools:</h3>
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="figma" width="40" height="40"/> </a> 
+   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="figma" width="40" height="40"/> </a> 
+   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  </p>
 
 _
