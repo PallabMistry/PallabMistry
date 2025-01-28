@@ -1,7 +1,7 @@
 __<h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
 
--🔧🔍 I’m currently working on growing As SQA Engineer.
+- 🔧🔍 I’m currently working on growing As SQA Engineer.
 
 - 🌱 I’m currently learning Mobile App Automation (Appium).
 
