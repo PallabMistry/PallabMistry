@@ -1,7 +1,9 @@
 __<h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Software Quality Assurance**
+-🔧🔍 I’m currently working on growing As SQA Engineer.
+
+- 🌱 I’m currently learning Mobile App Automation (Appium).
 
 - 💬 Ask me about ** Selenium, Java, Postman, Rest Assured, Flutter, Dart, HTML5, CSS3, SQL, SQA, Jira, SDLC, STLC, Models ETC**
 
