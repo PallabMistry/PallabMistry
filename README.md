@@ -9,7 +9,7 @@ __<h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
 
 - 📫 How to reach me **pallabmistry90@gmail.com**
 
-- ⚡ Fun fact **I think, i'm funny.**
+- ⚡ Fun fact **I think, I love funny.**
   
 -   <h4 align="meddle">** Love to travel **</h4>
 
