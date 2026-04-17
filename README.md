@@ -19,7 +19,7 @@ __<h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
 </p>
 
 <h3 align="center">Languages, Testing & others tools :</h3>
-<p align="center"> 
+<p align="Horizontal"> 
 <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/> </a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
@@ -39,7 +39,5 @@ __<h1 align="center">Hi 👋, I'm Pallab Mistry</h1>
 
 
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallabmistry&theme=radical&layout=compact" />
-
-_
 
 
